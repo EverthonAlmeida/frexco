@@ -1,5 +1,5 @@
 # frexco
-Repositório para o teste de Estpagio da Frexco sobre Previsão de Vendas.
+Repositório para o teste de Estágio da Frexco sobre Previsão de Vendas.
 
 ### Configuração do ambiente virtual
 
