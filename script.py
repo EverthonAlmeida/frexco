@@ -23,6 +23,4 @@ forecast[['ds','yhat','yhat_lower','yhat_upper']]
 
 fig = plot_plotly(model, forecast)
 
-fig.write_html("/home/lindamara.biscacio/Documentos/Pessoais/projetos/previsao.html")
-
-#fig.show()
+fig.show()
